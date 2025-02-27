@@ -4,8 +4,8 @@
 
 [![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=calvingit&show_icons=true&hide=["contribs","prs"])](https://github.com/calvingit)
 
-- 🔭 I’m currently working on on Flutter App developping.
-- 🌱 10+ years of iOS development experience, love Swift.
+- 🔭 I’m currently working on Flutter App developping.
+- 🌱 10+ years of iOS App programming experience.
 - 🤔 Developing node/react programs in spare time.
 <!--
 **calvingit/calvingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
